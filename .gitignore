@@ -1,6 +1,7 @@
-*.mp4
-*.avi
-*.mat
-*.nc
+**.cdf
+**.mp4
+**.avi
+**.mat
+**.nc
 **.DS_Store
 .DS_Store
